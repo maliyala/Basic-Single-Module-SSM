@@ -48,7 +48,7 @@ public class SysUserController {
 		return new Date();
 	}
 	public void test(){
-
+        System.out.println(1);
 	}
 
 
