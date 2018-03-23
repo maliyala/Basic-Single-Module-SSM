@@ -47,7 +47,9 @@ public class SysUserController {
 		LOG.error("-----------------------------------error");
 		return new Date();
 	}
-	
+	public void test(){
+
+	}
 
 
 
